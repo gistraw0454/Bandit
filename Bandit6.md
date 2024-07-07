@@ -1,4 +1,4 @@
-# Bandit5
+# Bandit6
 
 ## Level Goal
 The password for the next level is stored somewhere on the server and has all of the following properties:
@@ -32,4 +32,4 @@ somewhere on the server 이라하니, 경로로 `/`를 사용해준다.
 ![alt text](img/image8.png)
 
 ![alt text](img/image9.png)
->HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
+>morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
