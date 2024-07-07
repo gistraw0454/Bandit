@@ -30,6 +30,6 @@ A-Z -> N-Z or A-M
 
 a-z -> n-z or a-m 으로 바꿔준다. 
 
-![alt text](image15.png)
+![alt text](img/image15.png)
 
 > 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4

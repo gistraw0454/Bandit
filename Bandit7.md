@@ -13,6 +13,6 @@ man, grep, sort, uniq, strings, base64, tr, tar, gzip, bzip2, xxd
 
 ## 2. data.txt 에서 millionth 가있는 줄 찾기
 `grep [문자열] [파일명]` or `grep --text [문자열] [파일명]`
-![alt text](image10.png)
+![alt text](img/image10.png)
 
 > dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc

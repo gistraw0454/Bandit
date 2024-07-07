@@ -19,6 +19,6 @@ Piping and Redirection
 
 uniq는 중복을 제거해주는데, -c옵션을 넣으면 중복개수를 세준다.
 
-![alt text](image11.png)
+![alt text](img/image11.png)
 
 > 4CKMh1JI91bUIZZPXDqGanal4xvAg0JM

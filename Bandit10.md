@@ -19,6 +19,6 @@ Base64 on Wikipedia
 `base64 [파일명]` : 인코딩
 `base64 -d [파일명]` : 디코딩
 
-![alt text](image14.png)
+![alt text](img/image14.png)
 
 > dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr

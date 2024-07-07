@@ -13,7 +13,7 @@ grep, sort, uniq, strings, base64, tr, tar, gzip, bzip2, xxd
 
 ## 2. data.txt 에서 ==여러개로 시작된 문자열이있는 줄 찾기
 처음엔, `grep == data.txt` 로 찾아봤다. 결과가 나오긴했는데 읽을수없는 문자들도 많이 나와 불편했다.
-![alt text](image12.png)
+![alt text](img/image12.png)
 
 ### strings 
 - binary 파일의 ASCII 문자를 찾아 화면에 출력해준다.
@@ -21,6 +21,6 @@ grep, sort, uniq, strings, base64, tr, tar, gzip, bzip2, xxd
 
 `strings data.txt | grep ==` 로 사람이 읽을 수 있는 형태로 문자열들을 출력하며, ==가 포함된 줄을 출력해보면
 
-![alt text](image13.png)
+![alt text](img/image13.png)
 
 > FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey

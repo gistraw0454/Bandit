@@ -65,7 +65,7 @@ Hex dump on Wikipedia
 
 아무튼 이런식으로 반복하다보면, `file data9.bin` 했을때 data9.bin : ASCII text 라는 메세지가 나오고 이걸 `cat data9.bin` 으로 읽어주면 flag가 나온다.
 
-![alt text](image16.png)
+![alt text](img/image16.png)
 
 >FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn
 
