@@ -1,4 +1,4 @@
-# Bandit14
+# Bandit15
 
 ## Level Goal
 The password for the next level can be retrieved by submitting the password of the current level to port 30001 on localhost using SSL encryption. ssl 암호화를 사용해 localhost:30001 에 현재 레벨의 비번을 보내 키를 얻을수있다.
